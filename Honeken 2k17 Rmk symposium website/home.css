@@ -1,0 +1,24 @@
+
+body
+{
+    height: auto; 
+    width: auto; 
+    
+}
+
+
+
+.honken_banner { 
+  width: 100%;
+  height: auto;
+}
+.honken_banner:hover{
+  opacity: 0.8;
+}
+.btn-pad{
+  padding: 20px;
+  margin: 3px;
+}
+.btn-pad1{
+  padding-right: 3px;
+}
